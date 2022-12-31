@@ -1,5 +1,5 @@
 # AuSTR
-Detecting Stance of Authorities towards Rumors in Arabic Tweets: A Preliminary Study [ECIR2023]
+The repository contains data for ECIR 2023 paper "Detecting Stance of Authorities towards Rumors in Arabic Tweets: A Preliminary Study"
 
 
 # Contact us

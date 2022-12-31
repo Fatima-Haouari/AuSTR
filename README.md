@@ -7,4 +7,4 @@ The repository contains data for ECIR 2023 paper "Detecting Stance of Authoritie
 - [Dr. Tamer Elsayed](mailto:telsayed@qu.edu.qa)
 
 # Acknowledgments
-This work was made possible by GSRA grant\# GSRA6-1-0611-19074, and NPRP grant\# NPRP 11S-1204-170060GSRA from the Qatar National Research Fund. The statements made herein are solely the responsibility of the authors.
+This work was made possible by GSRA grant\# GSRA6-1-0611-19074, and NPRP grant\# NPRP 11S-1204-170060 from the Qatar National Research Fund. The statements made herein are solely the responsibility of the authors.

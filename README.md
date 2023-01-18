@@ -1,5 +1,5 @@
 # AuSTR
-The repository contains data for ECIR 2023 paper "Detecting Stance of Authorities towards Rumors in Arabic Tweets: A Preliminary Study"
+The repository contains data for ECIR 2023 paper ["Detecting Stance of Authorities towards Rumors in Arabic Tweets: A Preliminary Study"](https://arxiv.org/abs/2301.05863)
 
 
 # Contact us

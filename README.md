@@ -9,9 +9,13 @@ The repository contains data for ECIR 2023 paper ["Detecting Stance of Authoriti
 # Cite
 
 @inproceedings{AuSTR,
+
 title={Detecting Stance of Authorities towards Rumors in Arabic Tweets: A Preliminary Study},
+
 author={Haouari, Fatima and Elsayed, Tamer},
+
 booktitle={Proceedings of the 45th European Conference on Information Retrieval (ECIR’23)},
+
 year={2023}}
 
 # Acknowledgments

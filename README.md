@@ -6,7 +6,7 @@ The repository contains data for ECIR 2023 paper ["Detecting Stance of Authoriti
 - [Fatima Haouari](mailto:200159617@qu.edu.qa)
 - [Dr. Tamer Elsayed](mailto:telsayed@qu.edu.qa)
 
-#Cite
+# Cite
 
 @inproceedings{AuSTR,
 title={{D}etecting {S}tance of {A}uthorities towards {R}umors in {A}rabic {T}weets: {A} {P}reliminary {S}tudy},
